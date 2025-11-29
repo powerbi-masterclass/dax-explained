@@ -1,4 +1,4 @@
-ProductID,StockID,Qty
+ProductID,WarehouseID,Qty
 P0001,S0001,51
 P0002,S0002,92
 P0003,S0003,14
