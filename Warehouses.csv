@@ -1,0 +1,31 @@
+WarehouseID,Name,Country,City,Size
+W0001,Graz Warehouse,Austria,Graz,Big
+W0002,Munich Warehouse,Germany,Munich,Medium
+W0003,Brussels Warehouse,Belgium,Brussels,Big
+W0004,Prague Warehouse,Czech Republic,Prague,Small
+W0005,Pilsen Warehouse,Czech Republic,Pilsen,Medium
+W0006,Toulouse Warehouse,France,Toulouse,Big
+W0007,Poznan Warehouse,Poland,Poznan,Medium
+W0008,Utrecht Warehouse,Netherlands,Utrecht,Medium
+W0009,Galway Warehouse,Ireland,Galway,Big
+W0010,Lyon Warehouse,France,Lyon,Big
+W0011,Valencia Warehouse,Spain,Valencia,Big
+W0012,Zaragoza Warehouse,Spain,Zaragoza,Medium
+W0013,Brno Warehouse,Czech Republic,Brno,Medium
+W0014,Ostrava Warehouse,Czech Republic,Ostrava,Medium
+W0015,Rotterdam Warehouse,Netherlands,Rotterdam,Medium
+W0016,Patras Warehouse,Greece,Patras,Big
+W0017,Paris Warehouse,France,Paris,Medium
+W0018,Malmo Warehouse,Sweden,Malmo,Big
+W0019,Florence Warehouse,Italy,Florence,Small
+W0020,Stockholm Warehouse,Sweden,Stockholm,Medium
+W0021,Wroclaw Warehouse,Poland,Wroclaw,Big
+W0022,Lisbon Warehouse,Portugal,Lisbon,Big
+W0023,Bordeaux Warehouse,France,Bordeaux,Small
+W0024,Amsterdam Warehouse,Netherlands,Amsterdam,Medium
+W0025,Marseille Warehouse,France,Marseille,Medium
+W0026,Frankfurt Warehouse,Germany,Frankfurt,Big
+W0027,Gdansk Warehouse,Poland,Gdansk,Small
+W0028,Salzburg Warehouse,Austria,Salzburg,Big
+W0029,Eindhoven Warehouse,Netherlands,Eindhoven,Medium
+W0030,Berlin Warehouse,Germany,Berlin,Small
